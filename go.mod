@@ -1,3 +1,4 @@
-module github.com/Newterio/my-text-analyzer
+github.com/Newterio/text_stats
+
 
 go 1.24.3
